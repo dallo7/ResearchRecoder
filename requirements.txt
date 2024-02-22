@@ -1,9 +1,8 @@
-pandas==1.5.3
-scikit-learn==1.2.2
-requests==2.31.0
-gunicorn
+dash==2.9.3
+dash_bootstrap_components==1.4.2
+dash_recording_components==1.0.3
+numpy==1.24.4
+PyAudio==0.2.14
+Requests==2.31.0
 soundfile==0.12.1
-dash~=2.9.3
-dash-bootstrap-components==1.4.2
-dash-recording-components==1.0.3
-
+gunicorn==21.2.0
