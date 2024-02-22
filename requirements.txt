@@ -1,6 +1,7 @@
 pandas==1.5.3
 scikit-learn==1.2.2
 gunicorn
+soundfile==0.12.1
 dash~=2.9.3
 dash-bootstrap-components==1.4.2
 dash-recording-components==1.0.3
